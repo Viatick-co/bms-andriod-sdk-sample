@@ -1,0 +1,2 @@
+include ':app', ':bms-android-sdk-release'
+rootProject.name='BmsSdkAndroidExample'
